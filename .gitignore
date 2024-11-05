@@ -13,6 +13,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+#Dokumentasi Word And Database
+Dokumentasi_Padi_Jaya_Ikram.docx
+PadiJaya.sql
+
 # Mono auto generated files
 mono_crash.*
 
@@ -361,3 +365,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/BnspProject.sln
